@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/sourcegraph/mux"
+	"github.com/fossas/mux"
 )
 
 // TreeEntryPathPattern is the path pattern for tree entries.

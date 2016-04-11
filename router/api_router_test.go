@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/kr/pretty"
-	"github.com/sourcegraph/mux"
+	"github.com/fossas/mux"
 )
 
 func TestMatch(t *testing.T) {
