@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/fossas/go-sourcegraph/router"
-	"sourcegraph.com/sourcegraph/srclib/graph"
+	"github.com/abec/srclib/graph"
 )
 
 func TestDefsService_Get(t *testing.T) {

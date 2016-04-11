@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/srclib/unit"
+	"github.com/abec/srclib/unit"
 	"sourcegraph.com/sourcegraph/vcsstore/vcsclient"
 )
 

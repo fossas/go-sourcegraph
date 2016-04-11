@@ -10,9 +10,9 @@ import (
 	"sourcegraph.com/sourcegraph/go-nnz/nnz"
 
 	"github.com/fossas/go-sourcegraph/router"
-	"sourcegraph.com/sourcegraph/srclib/graph"
-	"sourcegraph.com/sourcegraph/srclib/store"
-	"sourcegraph.com/sourcegraph/srclib/unit"
+	"github.com/abec/srclib/graph"
+	"github.com/abec/srclib/store"
+	"github.com/abec/srclib/unit"
 )
 
 // DefsService communicates with the def- and graph-related endpoints in

@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/fossas/go-sourcegraph/router"
-	"sourcegraph.com/sourcegraph/srclib/unit"
+	"github.com/abec/srclib/unit"
 )
 
 func TestUnitsService_Get(t *testing.T) {

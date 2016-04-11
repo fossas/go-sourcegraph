@@ -6,8 +6,8 @@ import (
 
 	"sourcegraph.com/sourcegraph/go-diff/diff"
 	"github.com/fossas/go-sourcegraph/router"
-	"sourcegraph.com/sourcegraph/srclib/store"
-	"sourcegraph.com/sourcegraph/srclib/unit"
+	"github.com/abec/srclib/store"
+	"github.com/abec/srclib/unit"
 )
 
 // DeltasService interacts with the delta-related endpoints of the

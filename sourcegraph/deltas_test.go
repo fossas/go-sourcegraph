@@ -8,8 +8,8 @@ import (
 
 	"sourcegraph.com/sourcegraph/go-diff/diff"
 	"github.com/fossas/go-sourcegraph/router"
-	"sourcegraph.com/sourcegraph/srclib/graph"
-	"sourcegraph.com/sourcegraph/srclib/unit"
+	"github.com/abec/srclib/graph"
+	"github.com/abec/srclib/unit"
 
 	"github.com/kr/pretty"
 )

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/srclib/graph"
+	"github.com/abec/srclib/graph"
 )
 
 // An ErrorResponse reports errors caused by an API request.

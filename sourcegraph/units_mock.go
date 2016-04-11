@@ -1,6 +1,6 @@
 package sourcegraph
 
-import "sourcegraph.com/sourcegraph/srclib/unit"
+import "github.com/abec/srclib/unit"
 
 type MockUnitsService struct {
 	Get_  func(spec UnitSpec) (*unit.RepoSourceUnit, Response, error)
