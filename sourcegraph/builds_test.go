@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/db_common"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/db_common"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 func TestBuildsService_Get(t *testing.T) {

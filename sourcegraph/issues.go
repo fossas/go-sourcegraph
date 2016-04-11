@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 // IssuesService communicates with the issue-related endpoints in the

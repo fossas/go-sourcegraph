@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 // PeopleService communicates with the people-related endpoints in the

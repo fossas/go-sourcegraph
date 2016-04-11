@@ -2,7 +2,7 @@ package sourcegraph
 
 import (
 	"github.com/sourcegraph/go-github/github"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 type RepoStatus struct {

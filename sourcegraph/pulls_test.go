@@ -12,7 +12,7 @@ import (
 	"github.com/gorilla/schema"
 	"github.com/kr/pretty"
 	"github.com/sourcegraph/go-github/github"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 func TestPullRequestsService_Get(t *testing.T) {

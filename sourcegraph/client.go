@@ -1,4 +1,4 @@
-//go:generate gen-mocks -p sourcegraph.com/sourcegraph/go-sourcegraph/sourcegraph -n sourcegraph -o . -w
+//go:generate gen-mocks -p github.com/fossas/go-sourcegraph/sourcegraph -n sourcegraph -o . -w
 package sourcegraph
 
 import (
@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/google/go-querystring/query"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 const (

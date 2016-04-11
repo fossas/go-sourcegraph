@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 func TestOrgSpec(t *testing.T) {

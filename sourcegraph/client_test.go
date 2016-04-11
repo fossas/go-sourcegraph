@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 // Uses HTTP client testing code adapted from github.com/google/go-github.

@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 // OrgsService communicates with the organizations-related endpoints in the

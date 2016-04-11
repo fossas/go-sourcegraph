@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/db_common"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/db_common"
+	"github.com/fossas/go-sourcegraph/router"
 
 	"sourcegraph.com/sourcegraph/go-nnz/nnz"
 )

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 func TestMarkdown(t *testing.T) {

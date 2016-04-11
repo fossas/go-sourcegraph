@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/kr/pretty"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 func TestIssues(t *testing.T) {

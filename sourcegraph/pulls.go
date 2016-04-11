@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 // PullRequestsService communicates with the pull request-related endpoints in the

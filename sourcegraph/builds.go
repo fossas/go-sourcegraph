@@ -8,8 +8,8 @@ import (
 
 	"strconv"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/db_common"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/db_common"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 // BuildsService communicates with the build-related endpoints in the

@@ -9,7 +9,7 @@ import (
 
 	"sourcegraph.com/sourcegraph/go-nnz/nnz"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 	"sourcegraph.com/sourcegraph/srclib/graph"
 	"sourcegraph.com/sourcegraph/srclib/store"
 	"sourcegraph.com/sourcegraph/srclib/unit"

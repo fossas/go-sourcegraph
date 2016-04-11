@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"sourcegraph.com/sourcegraph/go-diff/diff"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 	"sourcegraph.com/sourcegraph/srclib/graph"
 	"sourcegraph.com/sourcegraph/srclib/unit"
 

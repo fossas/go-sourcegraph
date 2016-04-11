@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/sourcegraph/go-github/github"
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 )
 
 func TestReposService_GetCombinedStatus(t *testing.T) {

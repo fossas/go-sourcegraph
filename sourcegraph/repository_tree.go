@@ -5,7 +5,7 @@ import (
 
 	"sourcegraph.com/sourcegraph/vcsstore/vcsclient"
 
-	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
+	"github.com/fossas/go-sourcegraph/router"
 	"sourcegraph.com/sourcegraph/go-vcs/vcs"
 )
 

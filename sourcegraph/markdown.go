@@ -1,6 +1,6 @@
 package sourcegraph
 
-import "sourcegraph.com/sourcegraph/go-sourcegraph/router"
+import "github.com/fossas/go-sourcegraph/router"
 
 type MarkdownService interface {
 	Render(markdown []byte, opt MarkdownOpt) (*MarkdownData, Response, error)
